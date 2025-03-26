@@ -39,8 +39,9 @@ Soy un desarrollador apasionado que disfruta del reto constante de aprender y me
 ---
 
 ## 🌐 Proyectos Destacados
-- **[AeroMatrix]([#](https://github.com/AdrianJS2009/Proyecto_FCT)):** Aplicación web para gestionar Drones aereos utilizando React Vite y Java SpringBoot.
-- **[Bookflix](#):** E-Commerce de libros digitales realizado usando React y C# Cliente-Servidor.
+- **[AeroMatrix](https://github.com/AdrianJS2009/Proyecto_FCT):** Aplicación web para gestionar drones aéreos utilizando React Vite y Java SpringBoot.
+- **[Bookflix](https://github.com/AdrianJS2009/Bookflix):** E-Commerce de libros digitales realizado usando React y C# Cliente-Servidor.
+
 
 
 ---
