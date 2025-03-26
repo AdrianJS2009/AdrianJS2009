@@ -64,5 +64,3 @@ Soy un desarrollador apasionado que disfruta del reto constante de aprender y me
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajimsan2096@gmail.com)
 
 ---
-
-### Gracias por visitar mi perfil. ¡Siempre hay algo nuevo por aprender y explorar! 🚀
