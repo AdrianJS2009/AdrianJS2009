@@ -52,6 +52,7 @@ Soy un desarrollador apasionado que disfruta del reto constante de aprender y me
 ![Streaks](https://nirzak-streak-stats.vercel.app/?user=AdrianJS2009&theme=monokai&hide_border=false)
 <br/>
 ![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianJS2009&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Visitas totales](https://komarev.com/ghpvc/?username=AdrianJS2009&style=for-the-badge)
 
 ---
 
